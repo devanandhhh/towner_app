@@ -1,4 +1,4 @@
-# my_app
+# Towner App
 
 A new Flutter project.
 
